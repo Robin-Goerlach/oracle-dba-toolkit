@@ -7,3 +7,5 @@
 - Defer Oracle runtime verification explicitly; allow MySQL work after Oracle8 source completion and static review.
 
 - Add bilingual Oracle8 architecture and UNIX integration foundations (M0-03 started).
+
+- Add three Oracle8 memory diagnostics scripts, bilingual learning material and eight deferred acceptance tests (M0-03a). Static review partial; runtime not run.
