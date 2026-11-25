@@ -1,5 +1,7 @@
 # Source register
 
+[Deutsch](SOURCES.de.md)
+
 The following freely readable resources are starting points; availability and reuse licenses must be checked before importing material.
 
 | Source | Purpose |
