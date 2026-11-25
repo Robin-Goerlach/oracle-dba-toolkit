@@ -16,3 +16,7 @@ Expected: version banners and instance identity/status. An Oracle error indicate
 
 ## Next work
 Storage inventory, session diagnostics, locks, redo/archive checks, backup/recovery and baseline measurements. All tools require release-specific verification.
+
+## Architecture learning track
+- [Architecture and internals](docs/ARCHITECTURE.md)
+- [Oracle and UNIX integration](docs/UNIX-INTEGRATION.md)
