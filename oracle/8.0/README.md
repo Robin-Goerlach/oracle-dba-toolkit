@@ -24,3 +24,7 @@ Storage inventory, session diagnostics, locks, redo/archive checks, backup/recov
 ## Memory diagnostics
 - [Memory architecture and scripts](docs/MEMORY.md)
 - [Deferred acceptance plan](tests/MEMORY-ACCEPTANCE.md)
+
+## Process and session diagnostics (M0-03b)
+- [Processes and sessions](docs/PROCESSES.md)
+- [Deferred acceptance plan](tests/PROCESSES-ACCEPTANCE.md)
