@@ -20,3 +20,7 @@ Storage inventory, session diagnostics, locks, redo/archive checks, backup/recov
 ## Architecture learning track
 - [Architecture and internals](docs/ARCHITECTURE.md)
 - [Oracle and UNIX integration](docs/UNIX-INTEGRATION.md)
+
+## Memory diagnostics
+- [Memory architecture and scripts](docs/MEMORY.md)
+- [Deferred acceptance plan](tests/MEMORY-ACCEPTANCE.md)
