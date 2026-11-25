@@ -17,3 +17,7 @@ Isolierte VM, kompatibles historisches Betriebssystem und rechtmäßig beschafft
 Erwartet werden Versionsinformationen sowie Instanzidentität und Status. Bei SQL-Fehlern beendet das Skript SQL*Plus. Fehlerursache prüfen, nicht automatisch DBA-Rechte vergeben.
 
 Weitere Arbeit: Speicher, Sessions, Locks, Redo/Archive, Backup/Recovery und Baseline-Messungen. Laufzeittests bleiben offen.
+
+## Architektur-Lernpfad
+- [Architektur und Internals](docs/ARCHITECTURE.de.md)
+- [Oracle und UNIX](docs/UNIX-INTEGRATION.de.md)
