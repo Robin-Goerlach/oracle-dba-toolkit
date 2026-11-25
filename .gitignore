@@ -1,0 +1,12 @@
+# Local secrets and diagnostic output
+.env
+.env.*
+*.log
+*.lst
+*.dmp
+*.trc
+*.iso
+*.vmdk
+*.qcow2
+local/
+output/
