@@ -1,12 +1,14 @@
 # Oracle8 (8.0.5)
 
-Status: initial development; runtime testing pending.
+[Deutsch](README.de.md)
+
+Status: initial development; runtime testing deferred.
 
 ## Lab
 Use an isolated VM with a compatible historical operating system and legally obtained Oracle media. Do not expose legacy listeners to the internet. Use synthetic data, local console access and recoverable VM snapshots. Record OS, Oracle edition, patch level and SQL*Plus version. Snapshots do not replace database backups.
 
 ## First tool
-[Instance inventory](sql/instance_inventory.sql) queries V$VERSION and V$INSTANCE. Run from an already authenticated SQL*Plus session with authorized read privileges:
+[Instance inventory](sql/instance_inventory.sql) (risk class R) queries V$VERSION and V$INSTANCE. Run from an already authenticated SQL*Plus session with authorized read privileges:
 ```sql
 @oracle/8.0/sql/instance_inventory.sql
 ```
