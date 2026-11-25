@@ -1,5 +1,7 @@
 # Roadmap
 
+[Deutsch](ROADMAP.de.md)
+
 | Milestone | Release | Focus |
 |---|---|---|
 | M0 | 8.0.5 | Architecture, inventory, health checks, storage, sessions, locks, backup/recovery |
@@ -20,3 +22,5 @@
 5. Record static review and actual execution evidence separately. If historical media are unavailable, mark runtime acceptance blocked rather than passed.
 
 Do not start M1 until M0 has been reviewed and its remaining limitations explicitly accepted.
+
+MySQL development may begin after Oracle8 source completion and static review even if Oracle runtime tests remain deferred. This is not runtime acceptance. See [engineering policy](ENGINEERING-POLICY.md).
