@@ -1,4 +1,6 @@
 # oracle-dba-toolkit
+
+[Deutsch](README.de.md)
 A historically evolving Oracle DBA toolkit, starting with Oracle 8.0 and progressing through successive database generations. Includes SQL, PL/SQL, Shell and Perl scripts for administration, monitoring, performance tuning, troubleshooting, security, backup and recovery, complemented by documentation and practical DBA runbooks.
 
 ## Purpose
@@ -21,6 +23,6 @@ Historical Oracle software is unsupported and belongs in an isolated lab with le
 
 ## Status
 
-Initial foundation (M0). The first inventory script has not been executed against Oracle8. English is the primary documentation language. Related database engines may be developed in separate sibling repositories.
+Initial foundation (M0). The first inventory script has not been executed against Oracle8. English is the primary documentation language. Oracle is the leading reference system. MySQL development in a separate repository may begin after the Oracle8 script baseline is complete and statically reviewed, even while Oracle runtime tests are deferred. German companion documentation is maintained in parallel.
 
-No project license has been selected yet; do not assume redistribution rights.
+See [MIT license](LICENSE) and [engineering policy](docs/ENGINEERING-POLICY.md). Third-party materials retain their own licenses.
