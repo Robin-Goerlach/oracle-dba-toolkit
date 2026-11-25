@@ -21,3 +21,7 @@ Weitere Arbeit: Speicher, Sessions, Locks, Redo/Archive, Backup/Recovery und Bas
 ## Architektur-Lernpfad
 - [Architektur und Internals](docs/ARCHITECTURE.de.md)
 - [Oracle und UNIX](docs/UNIX-INTEGRATION.de.md)
+
+## Speicherdiagnose
+- [Speicherarchitektur und Skripte](docs/MEMORY.de.md)
+- [Zurückgestellter Abnahmeplan](tests/MEMORY-ACCEPTANCE.de.md)
