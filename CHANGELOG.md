@@ -9,3 +9,5 @@
 - Add bilingual Oracle8 architecture and UNIX integration foundations (M0-03 started).
 
 - Add three Oracle8 memory diagnostics scripts, bilingual learning material and eight deferred acceptance tests (M0-03a). Static review partial; runtime not run.
+
+- Add four read-only process/session reports, bilingual UNIX correlation guidance and nine deferred acceptance cases (M0-03b). Runtime not run.
