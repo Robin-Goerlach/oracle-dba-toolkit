@@ -25,3 +25,7 @@ Weitere Arbeit: Speicher, Sessions, Locks, Redo/Archive, Backup/Recovery und Bas
 ## Speicherdiagnose
 - [Speicherarchitektur und Skripte](docs/MEMORY.de.md)
 - [Zurückgestellter Abnahmeplan](tests/MEMORY-ACCEPTANCE.de.md)
+
+## Prozess- und Sitzungsdiagnose (M0-03b)
+- [Prozesse und Sitzungen](docs/PROCESSES.de.md)
+- [Zurückgestellter Abnahmeplan](tests/PROCESSES-ACCEPTANCE.de.md)
