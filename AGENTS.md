@@ -12,3 +12,6 @@
 - Maintain German companion documentation (.de.md) alongside English originals.
 - Work directly in main. Original contributions use MIT.
 - Follow [engineering policy](docs/ENGINEERING-POLICY.md), including R/C/M/D risk classes and deferred runtime validation. Oracle leads; MySQL may begin after the Oracle8 source baseline is complete and statically reviewed.
+
+- Prioritize server-side database administration and UNIX integration; HTML DB/APEX and developer desktop tools are secondary and outside M0.
+- Follow the sequence: understand, measure, automate, optimize.
